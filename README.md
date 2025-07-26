@@ -1,5 +1,5 @@
 # 信贷风险数据分析项目
-> 基于Lending Club的金融风控探索 | [完整代码](notebooks/credit_risk_analysis.ipynb)
+> 基于Lending Club的金融风控探索 | [完整代码](credit-risk-analysis.ipynb)
 
 ## 业务价值
 为消费信贷机构识别高风险客户特征，降低坏账损失
